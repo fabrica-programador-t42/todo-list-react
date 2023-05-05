@@ -1,0 +1,25 @@
+.title {
+    font-size: 200%;
+}
+
+.text-field {
+    width: 50%;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+
+.button-ok {
+    width: 10%;
+    margin-left: 10px;
+    background-color: #82B366;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.button-ok:hover {
+    background-color: #b8f594;
+    
+}
