@@ -1,16 +1,16 @@
 # Components
 
-## Texto
+## Texto - OK
 - Tamanho
 - Valor
 
-## Campo/Input
+## Campo/Input - OK
 - Descritivo
 - Tipo
 - Valor
 - Tamanho
 
-## Botao
+## Botao - OK
 - texto
 - tamanho
 - tipo
