@@ -12,19 +12,23 @@
 }
 
 .text-field {
-    width: 70%;
+    width: 78%;
     border-radius: 20px;
     padding: 10px;
+    height: 78px;
+    font-size: 18pt;
+    border: 2px solid;
 }
 
 
 
 .button-ok {
+    border: 2px solid #82B366;
     width: 20%;
+    height: 78px;
     margin-left: 10px;
     background-color: #82B366;
     cursor: pointer;
-    border: none;
     border-radius: 5px;
     padding: 10px;
 }
@@ -54,10 +58,18 @@
 .list-item-tag {
     margin-left: 10px;
     margin-right: 10px;
-    border: 2px solid #ffbb27;
     padding: 10px;
     border-radius: 10px;
+}
+
+.list-item-tag-important {
+    border: 2px solid #ffbb27;
     background-color: #eed192;
+}
+
+.list-item-tag-urgent {
+    border: 2px solid #ff2727;
+    background-color: #ee9292;
 }
 
 .list-item-button-icon-lapis {
@@ -77,5 +89,5 @@
     border: none;
     cursor: pointer;
     background-color: #e9e9e9;
-    
+
 }
